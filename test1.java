@@ -52,8 +52,8 @@ public class WebstaurantStoreAutomation {
         } 
     }
 
-    /* Hi there! I usually code with javascript with Mocha, 
-    but here is my submission for Java and Maven. 
+    /* Hi there! I usually code with JavaScript & Mocha, 
+    but here is my submission in Java with Maven. 
     Thank you for your time and consideration.
     Sunny Khandokar.
     */ 
