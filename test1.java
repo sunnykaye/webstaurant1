@@ -46,6 +46,7 @@ public class WebstaurantStoreAutomation {
             WebElement emptyButton = d.findElement(By.xpath("//a[@class='emptyCartButton']"));
             emptyButton.click();
 
+            
             System.out.println("Cart is clear");
         } finally {      
              d.quit();
